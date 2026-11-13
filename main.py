@@ -144,4 +144,12 @@ class QuizGame:
 
 
 if __name__ == "__main__":
-    QuizGame().run()
+    game = QuizGame()
+    try:
+        game.run()
+    except EOFError:
+        game.save_state()
+        print("\n입력이 종료되어 프로그램을 마칩니다.")
+    except KeyboardInterrupt:
+        game.save_state()
+        print("\n사용자가 중단하여 프로그램을 종료합니다.")

@@ -1,0 +1,76 @@
+{
+  "quizzes": [
+    {
+      "question": "Python에서 리스트를 만드는 기호는?",
+      "options": [
+        "{}",
+        "[]",
+        "()",
+        "< >"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Python에서 함수를 정의하는 키워드는?",
+      "options": [
+        "func",
+        "function",
+        "def",
+        "make"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "JSON 데이터를 Python 객체로 읽는 함수는?",
+      "options": [
+        "json.loads()",
+        "json.save()",
+        "json.print()",
+        "json.push()"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "HTTP API에서 데이터를 조회할 때 주로 사용하는 메서드는?",
+      "options": [
+        "POST",
+        "DELETE",
+        "PATCH",
+        "GET"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Git에서 변경 내용을 기록하는 명령어는?",
+      "options": [
+        "git commit",
+        "git open",
+        "git start",
+        "git show-all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "AI에서 LLM은 무엇의 약자인가?",
+      "options": [
+        "Local Logic Machine",
+        "Large Language Model",
+        "Long Learning Method",
+        "Linked List Model"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Python에서 문자열의 길이를 구하는 함수는?",
+      "options": [
+        "print()",
+        "input()",
+        "len()",
+        "str()"
+      ],
+      "answer": 3
+    }
+  ],
+  "high_score": 100,
+  "last_score": 0
+}

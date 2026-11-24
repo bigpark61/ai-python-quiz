@@ -69,8 +69,18 @@
         "str()"
       ],
       "answer": 3
+    },
+    {
+      "question": "Python에서 딕셔너리 자료형을 만드는 기호는?",
+      "options": [
+        "[]",
+        "{}",
+        "()",
+        "<>"
+      ],
+      "answer": 2
     }
   ],
   "high_score": 100,
-  "last_score": 0
+  "last_score": 100
 }

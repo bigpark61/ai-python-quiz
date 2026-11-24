@@ -9,3 +9,4 @@ state.saved.json
 main.backup.py
 *.json.tmp
 state.before-corrupt-test.json
+README.backup.md

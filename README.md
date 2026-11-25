@@ -172,3 +172,5 @@ git status -sb
 | 실행 스크린샷 별도 제출 | 저장소 내 해당 증빙 경로는 확인되지 않음 | 필요 시 보완 |
 
 > 이 문서는 저장소의 실제 소스코드·데이터와 대화 중 제공된 실행 결과를 기준으로 작성했습니다. 별도의 제출용 스크린샷 및 과제 PDF 원문 평가표 전체와의 최종 대조는 별도 확인이 필요합니다.
+>과제수행절차 Doc 링크
+> https://github.com/bigpark61/ai-python-quiz/blob/main/Doc/E1-2_AI_Python_Quiz_%EC%A0%84%EC%B2%B4%EC%88%98%ED%96%89%EC%A0%88%EC%B0%A8_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.md
